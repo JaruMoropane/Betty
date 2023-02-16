@@ -1,9 +1,10 @@
 #include <stdio.h>
 
+
 /**
- * main - Prints "with proper grammer, but the outcome is 
- * a piece of art," follwed by a newline.
- * Return: Always 0.
+ * main - Prints "with proper grammar, but the outcome is 
+ * a piece of art,"
+ * Return: Always 0
  */
 
 int main(void)
