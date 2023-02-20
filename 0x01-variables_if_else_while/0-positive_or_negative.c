@@ -8,7 +8,7 @@
 
 /**
  * main - Prints if number is positive, zero or negative
- * Return: Always (Success) .
+ * return 0.
  *
  */
 
